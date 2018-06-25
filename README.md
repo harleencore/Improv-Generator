@@ -1,2 +1,2 @@
-# dsoc
-SUTD Drama club code (eg auto improv scenario generators)
+# Improv Scenario generator
+Edit text files to add/ change scenarios, run python script
